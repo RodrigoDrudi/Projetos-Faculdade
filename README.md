@@ -1,2 +1,2 @@
 # Projetos-Faculdade
-Codigos feitos durante minhas aulas na faculdade de ADS.
+Codigo feito em HTML/CSS para a criação de um site de receitas.
